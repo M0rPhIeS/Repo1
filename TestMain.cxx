@@ -10,5 +10,6 @@ int main() {
     __int64 val = 0;
     cin >> val;
     
+    getchar();
     return 0;
 }
