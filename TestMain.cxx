@@ -10,6 +10,6 @@ int main() {
     __int64 val = 0;
     cin >> val;
     
-    getchar();
+    getchar();  // Merge into Branch (Patch-1)
     return 0;
 }
